@@ -17,7 +17,6 @@ int main()
 	}
 	else
 		printf("Invalid input\n");
-	main();
 }
 
 int isPallindrome(int a)
