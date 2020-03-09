@@ -1,9 +1,9 @@
 #include<stdio.h>
 
-float sum(float,float);
-float sub(float,float);
-float mult(float,float);
-float div(float,float);
+float sum(float,float); // PERFORMS ADDITION
+float sub(float,float); // PERFORMES SUBRACTION
+float mult(float,float); // PERFORMES MULTIPLICATION
+float div(float,float); // PERFORMES DIVISION
 int error=0;
 
 int main()
